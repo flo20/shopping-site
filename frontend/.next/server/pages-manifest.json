@@ -2,10 +2,6 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/sell": "pages/sell.js",
-  "/": "pages/index.js",
   "/products": "pages/products.js",
-  "/order": "pages/order.js",
-  "/accounts": "pages/accounts.js",
-  "/next/dist/pages/_error": "pages/next/dist/pages/_error.js"
+  "/accounts": "pages/accounts.js"
 }
